@@ -1,0 +1,9 @@
+{
+    "credentials": {
+        "AccessKeyID": "",
+        "SecretAccessKey": ""
+    },
+    "functionName": "",
+    "file": "main.zip",
+    "region": "us-east-1"
+}
